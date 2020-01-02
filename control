@@ -1,0 +1,9 @@
+Package: com.noisyflake.windowhud
+Name: WindowHUD
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Use your screen as a car HUD
+Maintainer: NoisyFlake
+Author: NoisyFlake
+Section: Control Center (Modules)
